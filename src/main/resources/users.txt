@@ -1,0 +1,4 @@
+admin,admin,ADMIN
+dev,dev,USER
+test,test,USER
+devops,devops,USER
